@@ -1,5 +1,3 @@
-echo 'current image:'
-docker images
 #mvn package docker:build
 #docker run -d -p 8090:8090 -t springboot/spring-boot-demo
 DOCKER_IMAGE_NAME=springboot/spring-boot-demo
